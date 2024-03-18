@@ -27,4 +27,5 @@ public class Product {
     private String city;
     @Column(name = "author")
     private String author;
+
 }
